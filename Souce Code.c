@@ -233,7 +233,7 @@ void displayCities() {
 int main() {
     int choice;
     while (1) {
-        printf("\n========== City Map & Transport System ==========\n");
+        printf("\n========== BanglaRoute: Optimized City Navigation for Bangladesh ==========\n");
         printf("1. BFS Traversal\n");
         printf("2. DFS Traversal\n");
         printf("3. Shortest Path to All Cities (Dijkstra)\n");
